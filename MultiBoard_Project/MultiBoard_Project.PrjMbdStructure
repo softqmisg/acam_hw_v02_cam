@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MBS-Level_1.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=..\Sub Board Bottom\Sub Board Bottom.PrjPcb
+Record=SubProject|SourceDocument=MBS-Level_1.MbsDoc|ProjectPath=..\Sub Board Bottom\Sub Board Bottom.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MBS-Level_1.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB1|Source=..\Sub Board Top\Sub Board Top.PrjPcb
+Record=SubProject|SourceDocument=MBS-Level_1.MbsDoc|ProjectPath=..\Sub Board Top\Sub Board Top.PrjPcb
